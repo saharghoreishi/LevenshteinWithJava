@@ -1,2 +1,2 @@
 # LevenshteinWithJava
-Levenshtein algorithm with thread
+Implementation of Levenshtein algorithm with thread
